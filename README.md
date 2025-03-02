@@ -2,7 +2,7 @@
 
 This project focuses on analyzing and merging two datasets: IMDB Superhero Movies and Metacritic Movies, both stored in MongoDB. The goal is to prepare the data for machine learning and gain insights into movie trends, especially focusing on 2020 releases. The project involves data retrieval, cleaning, merging, and exploratory data analysis using Python.
 
-🛠️ Tools & Technologies Used 🛠️
+# 🛠️ Tools & Technologies Used 🛠️
 
 Programming Language: Python
 Database: MongoDB
@@ -29,7 +29,7 @@ Platform: Jupyter Notebook
     Delete data
     Manage collections and databases
 
-📥 Data Source 📥
+# 📥 Data Source 📥
 
 The data comes from two collections stored in MongoDB:
 
